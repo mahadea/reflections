@@ -23,4 +23,7 @@ organized? How would branches help?
   by using branches I can still have something solid that works properly
   but have the luxury of experimenting
 
-  
+
+How do the diagrams help you visualize the branch structure?
+  Diagrams help me know when branches were created and how many branches exist
+  They show me if there are unreachable branches.
