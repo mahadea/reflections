@@ -27,3 +27,16 @@ organized? How would branches help?
 How do the diagrams help you visualize the branch structure?
   Diagrams help me know when branches were created and how many branches exist
   They show me if there are unreachable branches.
+
+What is the result of merging two branches together? Why do we represent it in
+  the diagram the way we do?
+  When you merge branches together you can combine code changes made by
+  different people working in parallel.
+
+What are the pros and cons of Git’s automatic merging vs. always
+doing merges manually?
+  Pro- makes it easier for programmer, reduces chances of mistakes, speeds
+  up the process
+  Con- could inadvertently overlay changes, cannot always figure out what
+  programmer had in mind
+  
