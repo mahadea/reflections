@@ -4,3 +4,8 @@ likely to work on multiple computers then I can use git hub to check in and chec
 
 Why might you want to always pull changes manually rather than having Git automatically stay up-to-date with your remote repository?
 	If Git stays uptodate with remote then changes I have made locally that are not ready to be 'published' will get automatically pushed to remote as well.  So better to manually push and pull.
+
+Describe the differences between forks, clones, and branches. When would you use one instead of another?
+	fork is when you create a copy of a repository within github.  You would use fork when you want to work off an existing repository that someone else has created and you want to continue the parentage
+	clone is when you make a copy of a repository from github to your PC.  you want to clone when you want to do some serious work that can only be done on the PC, typically programming/coding type activities
+	branch is when you are working on your PC but want to try out things not directly related to what the main line of work is.
