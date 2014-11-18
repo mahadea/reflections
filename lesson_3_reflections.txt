@@ -1,0 +1,3 @@
+When would you want to use a remote repository rather than keeping all your work local?
+when I want to share my work with other people who can then clone my repository and make their contributions or if I am
+likely to work on multiple computers then I can use git hub to check in and check out my code.
