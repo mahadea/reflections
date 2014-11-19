@@ -9,3 +9,9 @@ Describe the differences between forks, clones, and branches. When would you use
 	fork is when you create a copy of a repository within github.  You would use fork when you want to work off an existing repository that someone else has created and you want to continue the parentage
 	clone is when you make a copy of a repository from github to your PC.  you want to clone when you want to do some serious work that can only be done on the PC, typically programming/coding type activities
 	branch is when you are working on your PC but want to try out things not directly related to what the main line of work is.
+
+What is the benefit of having a copy of the last known state of the remote stored locally?
+	If I'm going to be offline for a while then it's good to have a local copy of the most recent version of the remote.  I can use this local copy then to compare with what I have in my computer (via diff) to see what's changed and if I need to merge and so on.
+
+How would you collaborate without using Git or GitHub? What would be easier, and what would be harder?
+	W/o a tool like git or git hub collaboration would be very difficult.  I would have to find some common location to store my artifacts that others could access and we would have to rely on comments inline to indicate what was changed.  For two people to work in parallel would be very tricky as we would have to eyeball the elements to see what each of us did.
